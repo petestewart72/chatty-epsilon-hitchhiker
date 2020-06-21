@@ -14,6 +14,8 @@ A HG2G Chatroom app created with HTML , BOOTSTRAP, SASS , and JS
 * Install Npm
 * run 'Npm start' in term
 
+# Screenshot
+
 
 # Developers 
 * Nick Walters : https://github.com/nswalters
