@@ -10,11 +10,6 @@ A HG2G-themed chatroom simulation app created with HTML , BOOTSTRAP, SASS , and 
 * Clear all the messages on your feed
 * Switch display to Large Text
 
-## How to Run
-* Clone Down repo
-* Install Npm
-* Run 'Npm start' in terminal
-
 ## Screenshot
 ![screenshot](src/images/screenshot.png "Screenshot")
 
@@ -23,6 +18,9 @@ A HG2G-themed chatroom simulation app created with HTML , BOOTSTRAP, SASS , and 
 * Pete Stewart : https://github.com/petestewart72
 * Phonesalo Sihanorak : https://github.com/psihanorak
 * Jamal Browning : https://github.com/jamalbrowning
+
+## How To Run:
+> Project is deployed at [https://chatty-hitchhiker-66a0d.web.app/](https://chatty-hitchhiker-66a0d.web.app/)
 
 ## Technologies Used
 [![Vanilla JavaScript](https://img.shields.io/badge/JavaScript-2c9fcc?style=flat-square)](#) [![HTML](https://img.shields.io/badge/-HTML-2c9fcc?style=flat-square)](#) [![CSS](https://img.shields.io/badge/-CSS-2c9fcc?style=flat-square)](#)
